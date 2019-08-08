@@ -1,7 +1,7 @@
-# Inidicator Name 
+# Cover Cropping 
 ## Summary
 <!-- Add a one or two sentence to describe this indicator -->
-Add a one or two sentence to describe this indicator
+Cover Cropping algorithm is based on sentinel time series  in order to assess presence /absence of covercrops in crop parcels. 
 
 ## Details
 <!-- Add a more detailed description about this indicator -->
